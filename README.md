@@ -7,3 +7,5 @@ Computer Laboratoty 2564 - Lab 01
 # King Mongkut's Institute of Technology Ladkrabang
 
 add, commit #1
+add, commit #2
+
