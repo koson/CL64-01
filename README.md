@@ -3,3 +3,5 @@
 Computer Laboratoty 2564 - Lab 01
 
 My name is Koson Trachu
+
+King Mongkut's Institute of Technology Ladkrabang
